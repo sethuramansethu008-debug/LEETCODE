@@ -6,6 +6,6 @@ class Solution {
 
             s=s+nums[i];
         }
-        return s%k;
+        return (int)s%k;
     }
 }
