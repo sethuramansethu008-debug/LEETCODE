@@ -1,5 +1,8 @@
 class Solution:
     def earliestTime(self, tasks: List[List[int]]) -> int:
-        return sum(min(tasks,key=sum))
+        r=[]
+        for i in range(len(tasks)):
+            r.append(sum(tasks[i]))
+        return min(r)
 
         
