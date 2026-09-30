@@ -1,16 +1,13 @@
 class Solution:
-    def differenceOfSum(self, nums: list[int]) -> int:
+    def differenceOfSum(self, nums: List[int]) -> int:
         s=0
-        d=0
-        for i in nums:
-            s=s+i
-        for i in nums:
-            if i>9:
-                for j in str(i):
-                    d=d+int(j)
-            else:
-                d=d+i
-        return s-d
-
-
+        t=0
+        for i in range(len(nums)):
+            s+=nums[i]
+        for j in nums:
+            while j > 0:
+                t+=j%10  
+                j=j//10
+        return(abs(s-t))
+        
         
