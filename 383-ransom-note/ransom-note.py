@@ -1,6 +1,7 @@
 class Solution:
     def canConstruct(self, a: str, b: str) -> bool:
-        for i in a:
+        aa=set(a)
+        for i in aa:
             if a.count(i)>b.count(i):
                 return False
 
