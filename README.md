@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/1254-number-of-closed-islands) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/1254-number-of-closed-islands) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -21,4 +23,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/1254-number-of-closed-islands) |
+## String
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
