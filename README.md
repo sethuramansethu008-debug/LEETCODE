@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0128-longest-consecutive-sequence](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1254-number-of-closed-islands](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/0050-powx-n) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
