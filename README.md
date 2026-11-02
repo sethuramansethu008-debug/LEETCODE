@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0055-jump-game](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1254-number-of-closed-islands](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/1254-number-of-closed-islands) |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sethuramansethu008-debug/LEETCODE/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
